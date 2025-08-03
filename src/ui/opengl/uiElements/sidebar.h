@@ -32,7 +32,7 @@ namespace uiElement
             // ↑ 控件尺寸
             bool has_border;
             ImGuiWindowFlags flags;
-            /** 标识
+            /* 标识
              * ImGuiWindowFlags_None：默认值，无特殊行为
              * ImGuiWindowFlags_NoScrollbar：禁用滚动条，超出内容会被隐藏
              * ImGuiWindowFlags_AlwaysAutoResize：自动调整大小以适应内容
